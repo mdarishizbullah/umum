@@ -1,0 +1,2 @@
+# umum
+untuk umumnya
