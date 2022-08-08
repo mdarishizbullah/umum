@@ -1,2 +1,2 @@
-# umum
-untuk umumnya
+# cafekita
+sistem informasi cafe
